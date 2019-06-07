@@ -1,23 +1,33 @@
- /* Custom, iPhone Retina */
-
  @media only screen and (min-width: 320px) and (max-width: 374px) {
+     .camera_wrap {
+         width: 317px;
+         margin: -75px 0 25px 16px !important;
+         height: 240px;
+     }
      #why-us .card h5 {
          font-size: 17px;
      }
      .logo {
          margin: -10px 0 0 0;
      }
+     .top-phone-num .p-icon {
+         margin: 15px 0 0 0;
+     }
      .top-phone-num {
-         width: 190px;
-         margin: 5px 2px 0 0;
+         width: 180px;
+         margin: 5px 10px 0 0;
      }
      img.img-fluid.logoImg {
          width: 80%;
      }
+     .section-header h3 {
+         font-size: 29px;
+     }
      .card-img {
-         width: 85%;
-         height: 70%;
+         width: 100%;
+         height: 130px;
          padding: 4px;
+         margin: 0;
      }
      .map-top {
          margin-left: 2px;
@@ -81,6 +91,11 @@
  }
 
  @media only screen and (min-width: 375px) and (max-width: 375px) {
+     .camera_wrap {
+        width: 370px;
+        margin: -95px 0 25px 16px !important;
+        height: 240px;
+     }
      #why-us .card h5 {
          font-size: 20px;
      }
@@ -91,7 +106,7 @@
      }
      .card-img {
          width: 85%;
-         height: 70%;
+         height: 140px;
          padding: 4px;
      }
      .mobile-nav-toggle i {
@@ -112,7 +127,7 @@
          margin: 0 0 0 15px;
      }
      .carousel-inner {
-         margin: -90px 0 0 0;
+         margin: -100px 0 0 0;
          height: 250px;
      }
      #header.header-scrolled, #header.header-pages {
@@ -152,6 +167,11 @@
  }
 
  @media only screen and (min-width: 376px) and (max-width: 425px) {
+    .camera_wrap {
+       width: 420px;
+       margin: -95px 0 25px 16px !important;
+       height: 240px;
+    }
      #why-us .card h5 {
          font-size: 20px;
      }
@@ -164,7 +184,7 @@
          position: absolute;
      }
      #header .logo img {
-         width: 91%;
+         width: 85%;
      }
      #header.header-scrolled, #header.header-pages {
          height: 100px;
@@ -194,7 +214,7 @@
      }
      .card-img {
          width: 85%;
-         height: 70%;
+         height: 150px;
          padding: 4px;
      }
      #testimonials .testimonial-item .testimonial-img {
@@ -223,9 +243,12 @@
      }
  }
 
- /* Small Devices, Tablets */
-
  @media only screen and (min-width: 426px) and (max-width: 768px) {
+    .camera_wrap {
+       width: 96%;
+       margin: -95px 0 25px 16px !important;
+       height: 280px;
+    }
      #testimonials .testimonial-item .testimonial-img {
          border-radius: 10%;
      }
@@ -243,6 +266,7 @@
      }
      .map-top {
          margin: 0 -30px 0 10px;
+         border-left: 1px solid #ccc;
      }
      .section-header p {
          width: 100%;
@@ -256,16 +280,20 @@
          margin: -90px 0 0 0;
          height: 330px;
      }
+     .float-right.ie7-fix {
+         margin-top: -10px;
+     }
      img.img-fluid.logoImg {
          top: -10px;
-         width: 40%;
+         width: 50%;
          position: relative;
+         right: 27px;
      }
  }
 
  @media only screen and (min-width: 426px) and (max-width: 768px) and (orientation:portrait) {
      .card-img {
-         height: 200px;
+         height: 180px;
          padding: 5px;
      }
      .map-top {
@@ -273,10 +301,20 @@
      }
  }
 
+ @media only screen and (min-width: 426px) and (max-width: 768px) and (orientation:landscape) {
+     .card-img {
+         height: 130px;
+     }
+ }
+
  @media only screen and (min-width: 769px) and (max-width:1024px) {
+     .camera_wrap {
+         height: 550px;
+         width: 91%;
+         margin: -75px 0 0 16px;
+     }
      #header.header-scrolled, #header.header-pages {
          height: 100px;
-         margin: 21px 0 0 0;
      }
      .main-nav a {
          font-size: 11px;
@@ -286,7 +324,8 @@
          height: 500px;
      }
      .map-top {
-         margin: 0 0 0 15px;
+         margin: 0 0 0 10px;
+         border-left: 1px solid #ccc;
      }
      #header {
          height: 110px;
@@ -306,6 +345,10 @@
  }
 
  @media only screen and (min-width: 769px) and (max-width:1024px) and (orientation:portrait) {
+     .camera_wrap {
+         width: 91%;
+         margin: -75px 0 0 16px;
+     }
      .carousel-inner {
          margin: -65px 0 0 0;
          height: 500px;
@@ -318,20 +361,43 @@
      }
  }
 
-
- @media only screen and (min-width: 1025) and (max-width: 1440px) {
-    .map-top {
-        margin: 0 -125px 0 0;
-    }
-    #header{
-        height: 120px;
-    }
+ @media only screen and (min-width: 1025px) and (max-width: 2560px) {
+     .camera_wrap {
+         width: 98%;
+         height: 550px;
+         margin: -82px 0 35px 16px !important;
+     }
+     img.img-fluid.logoImg {
+         position: relative;
+         left: 10px;
+     }
+     .card-img {
+         height: 135px;
+     }
+     .map-top {
+         margin: 0 -105px 0 0;
+         border-left: 1px solid #ccc;
+     }
+     #header.header-scrolled, #header.header-pages {
+         height: 115px;
+     }
+     #header {
+         height: 120px;
+     }
+     .carousel-inner {
+         margin: -90px 0 0 0;
+         height: 500px;
+     }
+     #intro {
+         padding: 200px 0 30px 0;
+     }
+     .section-header p {
+         width: 100%;
+     }
+     #why-us .card h5 {
+         font-size: 17px;
+     }
+     #testimonials .testimonial-item .testimonial-img {
+         border-radius: 10%;
+     }
  }
-
- /* Medium Devices, Desktops */
-
- @media only screen and (min-width: 992px) {}
-
- /* Large Devices, Wide Screens */
-
- @media only screen and (min-width: 1200px) {}
