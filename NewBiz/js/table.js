@@ -80,4 +80,4 @@ var table = $('#lsvaccine').tableSortable({
             paginationLength: 2
         }
     ]
-})
+});

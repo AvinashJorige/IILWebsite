@@ -1495,10 +1495,16 @@ ul.breadcrumb li a:hover {
 
 .zoom {    
   transition: transform .2s; /* Animation */  
+  margin: 0 6px 0 0;
 }
 
 .zoom:hover {
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.5);/* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  box-shadow: 3px 2px rgba(0,0,0,0.2);
+  padding: 5px 4px 4px 4px;
+  border-radius: 8px;
+  /* border: 1px solid #ccc; */
+  cursor: pointer;
 }
 
 
@@ -1520,7 +1526,31 @@ section{
     border-top: 2px solid #007b5e;
 }
 
+.card-header {
+    padding: .35rem 0.25rem;
+    margin-bottom: 0;
+    color: #fff;
+    background-color:#41ace4;    
+}
 
+.btn-link{
+	color: #fff !important;
+}
+
+#sticky.stick {
+	position: fixed;
+	top: 0;
+	z-index: 10000;
+  }
+  
+
+span.crm-image {
+	background: #F5F5F5;
+	border: 1px solid #cfcece;
+	float: left;
+	padding: 6px;
+	margin: 0 10px 0 0;
+}
 /*--------------------------------------------------------------
 # Responsive Table query
 --------------------------------------------------------------*/
