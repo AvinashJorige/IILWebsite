@@ -1,0 +1,74 @@
+<p>
+Indian Immunologicals Limited (IIL) operates exclusive CRM department with a committed band of people towards enumerating customer satisfaction and delight. IIL's CRM department encompasses the process that uses to track and organize its contacts with its current & prospective customers at all levels of its operation.CRM in IIL is about understanding, improving and measuring how effectively identify the customers, market products & services in addition to retain the customers for ever. CRM services internal/external customers like business partners, vendors, employees and other important stakeholders who influence the company's success. In IIL's paradigm, CRM provides a platform to obtain a competitive advantage by embracing customer needs and building value-driven long-term relationships.
+</p>
+<br>
+<p>
+IIL also publishes periodicals/Magazines by name Raksha Technical Review and Spandana (in Digital mode) to reach the customers on a regular basis and take their feedback to upgrade the service expectations of the customer.
+</p>
+<div class="mx-auto">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="card">
+                                        <div class="card-header" id="headingOne">
+                                            <h3 class="mb-0">
+                                        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                          CRM Activities
+                                        </button>
+                                      </h3>
+                                        </div>
+            
+                                        <div id="collapseOne" class="collapse show fade" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                IIL conducts series of activities for the customers in order to keep the customer updated about the company's achievements and its service levels that add strength to the value chain. It is a continuous endeavor at IIL that customer databases are evaluated and updated to provide sufficient care and service to the customer as per their expectations.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="headingTwo">
+                                            <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+RAKSHA TECHNICAL REVIEW (RTR):
+                                        </button>
+                                      </h3>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse fade" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <span class="crm-image"><img class="alignnone size-full wp-image-3090" alt="RAKSHA TECHNICAL REVIEW (RTR)"
+        src="http://www.indimmune.com/wp-content/uploads/2013/12/rtr-crm.jpg" width="89" height="114"></span>RTR will
+contain all scientific articles and latest developments in veterinary practices written by eminent professors of various
+veterinary colleges and renowned field veterinarians across India. RTR will help to improve the knowledge of field
+veterinarians with current scientific developments in the field of veterinary science and its allied subjects. The
+magazine will also bring the latest updates in the field of veterinary sciences and will provide platform to exchange
+their ideas and experiences.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                          How to enable two factor authentication.
+                                        </button>
+                                      </h3>
+                                        </div>
+                                        <div id="collapseThree" class="collapse fade" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.<a href="https://www.fiverr.com/sunlimetech/convert-bootstrap-or-html-to-wordpress-for-global-devices" class="ml-3" target="_blank"><strong>View More designs <i class="fa fa-angle-double-right"></i></strong></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="headingFour">
+                                            <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                          How to contact us.
+                                        </button>
+                                      </h3>
+                                        </div>
+                                        <div id="collapseFour" class="collapse fade" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.<a href="https://www.fiverr.com/sunlimetech/do-web-development-in-pure-php-and-frameworks" class="ml-3" target="_blank"><strong>View More designs <i class="fa fa-angle-double-right"></i></strong></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>	
